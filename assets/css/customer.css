@@ -1,0 +1,47 @@
+body{
+   font-family: 'Joan', serif;
+    background-color: brown;
+}
+
+/* navbar css starts here  */
+.bg-light{
+    background-color: white!important;
+}
+
+.navbar-brand{
+   font-family: 'Joan', serif;
+    font-size: 1.5rem;
+    color:black;
+}
+
+.nav-link{
+    color: black;
+    font-family: 'Joan', serif;
+}
+
+.nav-link:hover{
+    background-color: #f3f1f1;
+}
+/* navbar css ends here  */
+
+h2 , h4 {
+    color: #ffffff;
+ }
+
+.my-info{
+    padding: 2rem 5rem;
+}
+
+.btn-info{
+    padding: 1rem 1.2rem;
+    background-color:  #fff;
+    color: black;
+    margin-left: 5px;
+    padding: 0.75rem;
+    transition: all 0.3s;
+}
+
+.btn-info:hover{
+    background-color: rgb(67, 83, 230)!important;
+}
+
